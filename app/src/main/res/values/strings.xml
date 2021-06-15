@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">customActionBar</string>
+
+    <string name="page_title">Page Title</string>
+
+    <string name="favorite">Favorite</string>
+    <string name="content_description_favorite">favorite set when button clicked</string>
+    <string name="search">Search</string>
+    <string name="content_description_search">search anything</string>
+    <string name="more">More</string>
+    <string name="content_description_more">Get More here</string>
+
+</resources>
